@@ -1,0 +1,20 @@
+.wrapper{
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.elevators-container{
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  float: left;
+}
+
+#confirm {
+  padding: 10px;
+  border-radius:  10px;
+  margin-top : 10px;
+}
